@@ -1,7 +1,7 @@
 # Minwoo Rhee
-# 9/28/18
+# 10/01/18
 # assignment_three
-# program that draws
+# program that draws a flower consists of six hexagons, with user inputs of color and size
 
 import turtle
 
